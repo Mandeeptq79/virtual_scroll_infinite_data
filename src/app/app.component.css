@@ -1,3 +1,13 @@
 p {
   font-family: Lato;
 }
+
+.list {
+  height: 300px;
+  overflow: auto;
+}
+
+.mattable {
+  height: 50px;
+  width: 100%;
+}

@@ -8,8 +8,8 @@ import { AppComponent } from './app.component';
 import { TableComponent } from './table/table.component';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, ScrollingModule, MatTableModule ],
-  declarations: [ AppComponent, TableComponent ],
-  bootstrap:    [ AppComponent ]
+  imports: [BrowserModule, FormsModule, ScrollingModule, MatTableModule],
+  declarations: [AppComponent, TableComponent],
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
